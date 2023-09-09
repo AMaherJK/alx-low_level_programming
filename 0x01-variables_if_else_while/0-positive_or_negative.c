@@ -4,6 +4,7 @@
 
 /**
  * main - Prints a random number and it's sign
+ * Return: Always 0.
 */
 int main(void)
 {
