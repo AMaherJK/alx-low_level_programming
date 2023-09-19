@@ -1,6 +1,7 @@
 #include "main.h"
 /**
  * _strlen : return the length of a string
+ * Description: this will return the length of a string
  * @s: char to check
  * Return: 0 is success
  */
